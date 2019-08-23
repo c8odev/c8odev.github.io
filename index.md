@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## About c8o
 
-You can use the [editor on GitHub](https://github.com/c8odev/c8odev.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+c8o(カプチーノ)は2017年に熊本大学の学生によって設立されたクリエイティブサークルです.   
+理念である「面白い事に向かって学習する情熱を世の中に循環させる」を基にハッカソン・ビジネスコンテスト等への参加, クリエイティブ活動などを行っています.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Activity
+### クリエイティブ活動
+**プログラミング - 開発系**  
+Web (Webサービス、サイト制作)  
+アプリケーション (iOS、Android)  
+VR(実質現実) / AR(拡張現実)   
+**プログラミング - 競技系**  
+Discord(チャットツール)での情報交換  
+オンラインプログラミングコンテスト(AtCoder)への参加  
+バーチャルコンテスト(仮想コンテスト)の開催  
+### コンテスト
+全国各地で行われるハッカソン, ビジネスコンテストへの参加.
+### 勉強会
+専門分野を研究している大学院生や特定分野の知識を持つ学生を中心とした勉強会を不定期に開催しています.
+### その他
+飲み会, 大学祭への出店など.
 
-### Markdown
+## Schedule
+Googleカレンダーにミーティング・活動などを日程を掲載しています.  
+[スケジュール表](https://calendar.google.com/calendar?cid=dWo2ZDVrcXJ0OWZiYWQybnF1c2dyMWhuZTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Award
+JPHACKS 2017 Hack Day - Best Hack Day Award  
+JPHACKS 2017 Award Day - サイボウズ賞, NTTレゾナント賞  
+SPAJAM 2017 福岡予選 - 優秀賞  
+シブヤクハック - 最優秀賞  
+平成30年度起業家甲子園 - ファイナリスト  
+第4回熊本テックプラングランプリ - Lib Work賞  
+Matching HUB Business Idea & Plan competition 2018 - ファイナリスト入選  
+熊本県オープンビジネスコンペティション2017 - マイクロソフト賞  
+熊本県オープンビジネスコンペティション2018 - さくらインターネット賞, Makuake賞  
+熊本県オープンビジネスコンペティション2019 - NICT賞, btrax賞, DOGAN賞  
+もの・クリCHALLENGE2017 - 優秀賞・工学部長表彰  
+もの・クリCHALLENGE2018 - 入賞  
 
-```markdown
-Syntax highlighted code block
+## Career
+ソフトバンク, 東大院, 日本製鉄, 富士通, リクルート 他 (五十音順)
 
-# Header 1
-## Header 2
-### Header 3
+## Contact
+ご質問や入部・見学希望の方はTwitterのDM, またはメールにてお願いします.  
+[Twitter](https://twitter.com/c8o_dev) or kuma.cappuccino@gmail.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/c8odev/c8odev.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Link
+準備中
