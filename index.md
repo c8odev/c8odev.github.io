@@ -38,9 +38,6 @@ Matching HUB Business Idea & Plan competition 2018 - ファイナリスト入選
 もの・クリCHALLENGE2017 - 優秀賞・工学部長表彰  
 もの・クリCHALLENGE2018 - 入賞  
 
-## Career
-ソフトバンク, 東大院, 日本製鉄, 富士通, リクルート 他 (五十音順)
-
 ## Contact
 ご質問や入部・見学希望の方はTwitterのDM, またはメールにてお願いします.  
 [Twitter](https://twitter.com/c8o_dev) or kuma.cappuccino@gmail.com
